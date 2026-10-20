@@ -42,6 +42,6 @@ public class FullNameParserAPP {
         // Displays the individual name parts
         System.out.println("First name: " + firstName);
         System.out.println("Middle name: " + middleName);
-        System.out.println("Last name: " + lastName);
+        System.out.println("Last name:  " + lastName);
     }
 }
